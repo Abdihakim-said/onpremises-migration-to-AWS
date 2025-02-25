@@ -2,7 +2,7 @@
 # Purpose: Automated user creation in the AWS
 # How to: ./aws-iam-create-user.sh <entry file format .csv>
 # Entry file column name: user, group, password
-# Author: Jean Rodrigues
+# Author: Abdihakim Said
 # ------------------------------------------
 
 INPUT=$1
