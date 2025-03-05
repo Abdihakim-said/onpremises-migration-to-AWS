@@ -1,5 +1,5 @@
 
-### Migration of a Workload running in a Corporate Data Center to AWS using the Amazon EC2 and RDS service part 2
+###  Part 2: Migration of a Workload running in a Corporate Data Center to AWS using the Amazon EC2 and RDS service
 
 
 
